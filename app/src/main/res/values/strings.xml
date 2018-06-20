@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NearbyRestaurants</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_places_key">AIzaSyCRFgGPSH55HgQ3iR7_LqDHlgpsOyj4A1Y</string>
+</resources>
